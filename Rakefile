@@ -3,4 +3,4 @@ task :hello do
   puts "hello from Rake!"
 end
 
-task :sup { "sup yo!"}
+task :sup { puts "sup yo!"}
